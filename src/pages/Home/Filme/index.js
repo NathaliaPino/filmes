@@ -1,4 +1,4 @@
-function Filmes (){
+function Filme (){
     return(
         <div>
             <h1>oiiiii</h1>
@@ -6,4 +6,4 @@ function Filmes (){
     )
 }
 
-export default Filmes;
+export default Filme;
